@@ -43,7 +43,7 @@ To get started with Cash_Harbour, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Cash_Harbour.git
+git clone https://github.com/GreNxNja/Cash_Harbour.git
 ```
 
 2. Install dependencies using npm or yarn:
