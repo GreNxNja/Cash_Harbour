@@ -1,7 +1,3 @@
-Here's a refined version of the README:
-
----
-
 # Cash_Harbour
 
 Welcome to Cash_Harbour, your secure and efficient banking app! Cash_Harbour provides a user-friendly interface for managing your finances, powered by cutting-edge technologies for security and functionality.
