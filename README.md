@@ -1,10 +1,14 @@
+Here's a refined version of the README:
+
+---
+
 # Cash_Harbour
 
 Welcome to Cash_Harbour, your secure and efficient banking app! Cash_Harbour provides a user-friendly interface for managing your finances, powered by cutting-edge technologies for security and functionality.
 
 ## Project Overview
 
-Cash_Harbour is a banking application designed to offer users a seamless experience for managing their financial transactions and analyzing their spending habits. It leverages a modern tech stack to provide robust security, smooth banking transactions, and insightful data visualization.
+Cash_Harbour is a banking application designed to offer users a seamless experience for managing their financial transactions and analyzing their spending habits. Leveraging a modern tech stack, it provides robust security, smooth banking transactions, and insightful data visualization.
 
 ## Features
 
@@ -17,16 +21,16 @@ Cash_Harbour is a banking application designed to offer users a seamless experie
 
 ## Tech Stack
 
-- [Next.js](https://nextjs.org/) - React framework for building server-side rendered and statically generated web applications.
-- [TypeScript](https://www.typescriptlang.org/) - Typed superset of JavaScript that enhances code quality and developer productivity.
-- [Appwrite](https://appwrite.io/) - Open-source backend server providing user authentication, database, and storage services.
-- [Plaid](https://plaid.com/) - API for securely connecting bank accounts and processing financial transactions.
-- [Dwolla](https://www.dwolla.com/) - API for facilitating bank transfers and payments securely.
-- [React Hook Form](https://react-hook-form.com/) - Lightweight and flexible form validation library for React.
-- [Zod](https://github.com/colinhacks/zod) - TypeScript-first schema declaration and validation library for building robust data models.
-- [TailwindCSS](https://tailwindcss.com/) - Utility-first CSS framework for building custom designs without writing CSS.
-- [Chart.js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting library for data visualization.
-- [ShadCN](https://github.com/amblerwang/shadcn) - TailwindCSS plugin for generating custom shadow effects.
+- **Next.js**: React framework for building server-side rendered and statically generated web applications.
+- **TypeScript**: Typed superset of JavaScript that enhances code quality and developer productivity.
+- **Appwrite**: Open-source backend server providing user authentication, database, and storage services.
+- **Plaid**: API for securely connecting bank accounts and processing financial transactions.
+- **Dwolla**: API for facilitating bank transfers and payments securely.
+- **React Hook Form**: Lightweight and flexible form validation library for React.
+- **Zod**: TypeScript-first schema declaration and validation library for building robust data models.
+- **TailwindCSS**: Utility-first CSS framework for building custom designs without writing CSS.
+- **Chart.js**: Simple yet flexible JavaScript charting library for data visualization.
+- **ShadCN**: TailwindCSS plugin for generating custom shadow effects.
 
 ## Security Measures
 
@@ -104,7 +108,3 @@ Contributions to Cash_Harbour are welcome! If you encounter any issues or have s
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file further to fit the specific details and requirements of your Cash_Harbour project!
